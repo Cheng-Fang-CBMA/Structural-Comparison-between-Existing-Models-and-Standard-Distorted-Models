@@ -6,6 +6,5 @@ is CONTCAR.cif. The structural comparison is performed using Pymatgen (see match
 is provided in output.txt.
        All the tungsten oxide models contained in ICSD (the redundant models with the same structures are 
 ignored) and their corresponding standard distorted models are provided here, and are sufficient to 
-support for our verification on the sufficient and necessary relationship between the structural formation 
-of CSCPCs and the existence of EDs and IDs. If more structural models mentioned in our work need to
-be provided for review, please contact us.
+support for our verification on the construction relation between the CSCPC and the EDs and IDs. 
+If more structural models mentioned in our work need to be provided for review, please contact us.
